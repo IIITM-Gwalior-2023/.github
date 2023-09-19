@@ -14,4 +14,4 @@ Join the ABV IIITM CodeHub, an organisation created by the freshers for the fres
 2. Respect licenses and attribute other's work wherever needed. Plagiarism will not be tolerated
 3. Do not spam the organisation with useless repositories, try to make a proof of concept or minimal version of your idea and only then post it to the organisation.
 
-An initiative taken by Ryan Madhuwala and Nilanjan B Mitra.
+An initiative taken by Ryan Madhuwala (BCS2023) and Nilanjan B Mitra (IMG2023).
