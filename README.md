@@ -1,5 +1,3 @@
-![logo](https://github.com/IIITM-Gwalior-2023/.github/assets/58515762/ee4fa3f5-a65e-409a-b58f-756abead6da4)
----
 # CodeHub - 2023
 ## A community by the freshers for the freshers
 
